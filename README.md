@@ -38,7 +38,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Discord
 - By far my favorite feature is the cross platform integration, whatever device you are on, you can communicate to anybody with discord
 - Being able to share your screen
-- The ability to add AI and code chatbots to your personal servers 
+- The ability to add AI and code chatbots to your personal servers
+
+##App Idea
+
+- My App idea is an app that helps heavy sleepers wake up. As a heavy sleeper myself, there have been countless times where I have overslept and simply pressed the snooze button. My app idea will have a UI that will not make that possible, it will make it so you have to complete a puzzle or something like a math problem. It will ensure you are awake. One of many features I would like to add is custom alarms, so you can set your alarms to your favorite songs. Another feature is the type of challenge you want, whether it is a word problem or a puzzle, the choice is yours. 
 
 Describe any challenges encountered while building the app.
 
